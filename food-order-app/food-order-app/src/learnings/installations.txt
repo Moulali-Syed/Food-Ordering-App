@@ -1,0 +1,9 @@
+Install React Router DOM
+
+    npm install react-router-dom
+
+Install material UI
+    npm install @mui/material @emotion/react @emotion/styled
+
+for material ui - icons
+    npm install @mui/icons-material 
